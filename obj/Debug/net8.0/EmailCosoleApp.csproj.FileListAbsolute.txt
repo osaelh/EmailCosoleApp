@@ -1,0 +1,14 @@
+c:\Users\Administrateur\Desktop\osa\CsharpProject\EmailCosoleApp\bin\Debug\net8.0\EmailCosoleApp.exe
+C:\Users\Administrateur\Desktop\osa\CsharpProject\EmailCosoleApp\bin\Debug\net8.0\EmailCosoleApp.deps.json
+C:\Users\Administrateur\Desktop\osa\CsharpProject\EmailCosoleApp\bin\Debug\net8.0\EmailCosoleApp.runtimeconfig.json
+c:\Users\Administrateur\Desktop\osa\CsharpProject\EmailCosoleApp\bin\Debug\net8.0\EmailCosoleApp.dll
+c:\Users\Administrateur\Desktop\osa\CsharpProject\EmailCosoleApp\bin\Debug\net8.0\EmailCosoleApp.pdb
+c:\Users\Administrateur\Desktop\osa\CsharpProject\EmailCosoleApp\obj\Debug\net8.0\EmailCosoleApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Administrateur\Desktop\osa\CsharpProject\EmailCosoleApp\obj\Debug\net8.0\EmailCosoleApp.AssemblyInfoInputs.cache
+c:\Users\Administrateur\Desktop\osa\CsharpProject\EmailCosoleApp\obj\Debug\net8.0\EmailCosoleApp.AssemblyInfo.cs
+c:\Users\Administrateur\Desktop\osa\CsharpProject\EmailCosoleApp\obj\Debug\net8.0\EmailCosoleApp.csproj.CoreCompileInputs.cache
+c:\Users\Administrateur\Desktop\osa\CsharpProject\EmailCosoleApp\obj\Debug\net8.0\EmailCosoleApp.dll
+c:\Users\Administrateur\Desktop\osa\CsharpProject\EmailCosoleApp\obj\Debug\net8.0\refint\EmailCosoleApp.dll
+c:\Users\Administrateur\Desktop\osa\CsharpProject\EmailCosoleApp\obj\Debug\net8.0\EmailCosoleApp.pdb
+C:\Users\Administrateur\Desktop\osa\CsharpProject\EmailCosoleApp\obj\Debug\net8.0\EmailCosoleApp.genruntimeconfig.cache
+C:\Users\Administrateur\Desktop\osa\CsharpProject\EmailCosoleApp\obj\Debug\net8.0\ref\EmailCosoleApp.dll
